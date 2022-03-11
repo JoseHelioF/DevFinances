@@ -1,2 +1,4 @@
+t.txt
 workspace.code-workspace
-.vscode
+.vscode/*
+.gitignore
